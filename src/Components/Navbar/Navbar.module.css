@@ -1,0 +1,19 @@
+.nav {
+    background-color: rgb(49, 77, 127);
+    height: 3rem;
+   
+}
+.imgcontainer img {
+    width: 50px;
+    height: 45px;
+    margin-left: 10px;
+
+}
+
+.linkcontainer{
+    display: flex;
+    justify-content: space-between;
+    width: 15rem;
+    margin-left: 30rem;
+   
+}
